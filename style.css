@@ -25,7 +25,7 @@ section #paragraph{
 }
 
 main{
-    color: black;
+    color: white;
 }
 
 .first_profile{
@@ -36,4 +36,5 @@ main{
 
 .first_image{
     height: 130px;
+    float: left;
 }
