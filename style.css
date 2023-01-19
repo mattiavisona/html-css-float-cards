@@ -7,6 +7,7 @@ box-sizing: border-box;
 .container{
     width: 800px;
     margin: 0 auto;
+    background-color:lightcoral;
 }
 
 header{
@@ -22,4 +23,8 @@ header{
 section #paragraph{
     text-align: center;
     margin-top: 50px;
+}
+
+main{
+    color: white;
 }
