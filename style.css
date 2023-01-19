@@ -7,7 +7,6 @@ box-sizing: border-box;
 .container{
     width: 800px;
     margin: 0 auto;
-    background-color:lightcoral;
 }
 
 header{
@@ -26,5 +25,15 @@ section #paragraph{
 }
 
 main{
-    color: white;
+    color: black;
+}
+
+.first_profile{
+    background-color: #0F0E17;
+    height: 130px;
+    margin-top: 80px;
+}
+
+.first_image{
+    height: 130px;
 }
