@@ -5,7 +5,7 @@ box-sizing: border-box;
 }
 
 .container{
-    width: 800px;
+    width: 1300px;
     margin: 0 auto;
 }
 
@@ -22,19 +22,28 @@ header{
 section #paragraph{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: -50px;
 }
 
 main{
     color: white;
 }
 
-.first_profile{
+.profile{
     background-color: #0F0E17;
     height: 130px;
     margin-top: 80px;
+    float: left;
+    width: 30%;
+    margin: 10px;
+    margin-top: 100px;
 }
 
-.first_image{
+.image{
     height: 130px;
     float: left;
+}
+
+.text{
+    padding: 28px 23px;
 }
