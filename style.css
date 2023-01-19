@@ -5,13 +5,21 @@ box-sizing: border-box;
 }
 
 .container{
-        text-align: center;
-        margin: 0 auto;
-        padding-top: 50px;
+    width: 800px;
+    margin: 0 auto;
+}
 
+header{
+    text-align: center;
 }
 
 .title{
     color: #E53170;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+}
+
+section #paragraph{
+    text-align: center;
+    margin-top: 50px;
 }
